@@ -61,6 +61,8 @@ a {
     background-color: #2a607c;
     color: #ffffff;
     text-align:center; 
+    padding:20px;
+    margin-top:20px;
 }
 
 .article img {
@@ -73,12 +75,30 @@ a {
     border: solid #2a607c thick; 
 }
 
-.tags img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-height: 500px;
-    padding:20px;
+article:after 
+    { /* this is the border */
+        content:"";
+        display:block;
+        width: 25em;
+        max-width:70%;
+        border-bottom: 0.3em solid red;
+        margin: 2em auto 0;
+    }
+
+
+.links {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly; 
+    align-items:center;
+}
+
+.links img {
+    object-fit: cover;
+    width:330px;
+    height:330px; 
+    /* max-height: 400px; */
+    padding:10px;
     margin-top:20px;
     border: solid #2a607c thick; 
 }
