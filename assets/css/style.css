@@ -112,6 +112,10 @@ article:after
     border: #2a607c solid thick; 
   }
 
+  section .link:hover{
+    color:purple;
+  }
+
   .other-app1 {
     position: relative;
   }
