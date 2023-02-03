@@ -77,12 +77,14 @@ a {
     padding:20px;
     margin-top:20px;
     border: solid #2a607c thick; 
+    background-color: burlywood;
+    border-radius: 5%;
 }
 
 /* resizes article img to fit phone screens */
 @media (max-width:500px) {
     .article img {
-        width:375px;
+        width:350px;
     }
 }
 
@@ -137,6 +139,8 @@ article:after
     padding:10px;
     margin-top:20px;
     border: solid #2a607c thick;
+    background-color: skyblue;
+    border-radius: 5%;
 }
 
 /* resizes article img to fit phone screens */
@@ -158,9 +162,11 @@ article:after
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: wheat;
     bottom:80%;
-    right:25%;
+    right:32%;
     color: #2a607c;
     border: #2a607c solid thick; 
+    background-color: skyblue;
+    border-radius: 5%;
   }
 
 /* changes text-block link color when hovered over by pointer  */
@@ -209,6 +215,7 @@ section .link:hover{
     padding:10px;
     margin-right:10px;
     margin-top:20px;
+    background-color: skyblue;
     border: solid #2a607c thick; 
 }
 
