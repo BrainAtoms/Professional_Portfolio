@@ -67,7 +67,7 @@ a {
     margin:20px;
 }
 
-/* positions article image and adds border */
+/* positions article image and adds border design */
 .article img {
     display: block;
     margin-left: auto;
@@ -155,7 +155,7 @@ article:after
     position:relative;
   }
   
-/* positions text block of first app img */
+/* positions and designs text block of first app img */
 .text-block .link {
     position:absolute;
     font-size:large;
@@ -178,7 +178,7 @@ section .link:hover{
     position: relative;
   }
 
-/* positions text block of second app img */
+/* positions and designs text block of second app img */
 .text-block2 .link {
     position:absolute;
     font-size:small;
@@ -187,14 +187,16 @@ section .link:hover{
     bottom:8%;
     right:10%;
     color: #2a607c;
-    border: #2a607c solid thick; 
+    border: #2a607c solid thick;
+    background-color: skyblue; 
+    border-radius: 5%;
   }
 
 .other-app2 {
     position:relative;
   }
 
-/* positions text block of third app img */
+/* positions and designs text block of third app img */
  .text-block3 .link {
     position: absolute;
     font-size:small;
@@ -203,7 +205,9 @@ section .link:hover{
     bottom:8%; 
     right:10%; 
     color: #2a607c;
-    border: #2a607c solid thick; 
+    border: #2a607c solid thick;
+    background-color: skyblue; 
+    border-radius: 5%;
   }
 
 /* resizes second and third app imgs to neatly fit under first app img */
