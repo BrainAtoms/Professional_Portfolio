@@ -79,6 +79,13 @@ a {
     border: solid #2a607c thick; 
 }
 
+/* resizes article img to fit phone screens */
+@media (max-width:500px) {
+    .article img {
+        width:350px;
+    }
+}
+
 /* adds line between article and section */
 article:after 
     { 
