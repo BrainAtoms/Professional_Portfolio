@@ -198,10 +198,6 @@ section .link:hover{
     border: solid #2a607c thick; 
 }
 
-h2 {
-    text-align:center;
-}
-
 /* adds dancing smiley faces to bottom of page body */
 .smileys {
     font-size:70px;
@@ -217,6 +213,10 @@ h2 {
   80% {transform: translate(-1px, 1px) rotate(1deg);}
   90% {transform: translate(1px, 2px) rotate(0deg);}
   100% {transform: translate(1px, -2px) rotate(-1deg);}
+}
+
+h2 {
+    text-align:center;
 }
 
 .footer {

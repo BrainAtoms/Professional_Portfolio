@@ -2,7 +2,9 @@
 
 My Professional Portfolio website was created as a resource to display my personal web projects. The webpage is a simple user friendly website that allows people to learn information about me and my work in web development. This web page uses HTML and CSS as a way for users to effectively learn more about me and my work.
 
-![Screenshot](Screen Shot 2023-02-03 at 1.04.59 PM.png)
+# ![Screen Shot 2023-02-03 at 1 04 59 PM](https://user-images.githubusercontent.com/61917285/216677664-20cb1a52-f053-46d8-a82d-cc234f4f2ab9.png)
+
+#
 [Professional Portfolio](https://brainatoms.github.io/Professional_Portfolio/)
 
 ## Installation
