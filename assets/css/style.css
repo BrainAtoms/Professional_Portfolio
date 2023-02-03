@@ -146,7 +146,7 @@ article:after
 /* resizes article img to fit phone screens */
 @media (max-width:500px) {
     .first-app img {
-        width:375px;
+        width:360px;
     }
 }
 
