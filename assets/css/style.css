@@ -82,7 +82,7 @@ a {
 /* resizes article img to fit phone screens */
 @media (max-width:500px) {
     .article img {
-        width:350px;
+        width:375px;
     }
 }
 
@@ -139,6 +139,13 @@ article:after
     border: solid #2a607c thick;
 }
 
+/* resizes article img to fit phone screens */
+@media (max-width:500px) {
+    .first-app img {
+        width:375px;
+    }
+}
+
 /* Containers holding the image and the text */
 .first-app {
     position:relative;
@@ -151,7 +158,7 @@ article:after
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: wheat;
     bottom:80%;
-    right:30%;
+    right:25%;
     color: #2a607c;
     border: #2a607c solid thick; 
   }
