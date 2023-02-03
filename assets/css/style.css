@@ -67,6 +67,8 @@ a {
     margin:20px;
 }
 
+
+
 /* positions article image and adds border design */
 .article img {
     display: block;
@@ -78,7 +80,7 @@ a {
     margin-top:20px;
     border: solid #2a607c thick; 
     background-color: burlywood;
-    border-radius: 5%;
+    border-radius: 10%;
 }
 
 /* resizes article img to fit phone screens */
@@ -221,6 +223,7 @@ section .link:hover{
     margin-top:20px;
     background-color: skyblue;
     border: solid #2a607c thick; 
+    border-radius: 10%;
 }
 
 /* adds dancing smiley faces to bottom of page body */
