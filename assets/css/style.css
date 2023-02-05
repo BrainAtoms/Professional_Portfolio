@@ -60,7 +60,6 @@ a {
 .titles {
     display:flex;
     flex-direction: column;
-    justify-content: space-between;
     font-size:xx-large;
     color: maroon;
     padding:20px;
