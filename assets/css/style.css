@@ -142,7 +142,7 @@ article:after
     margin-top:20px;
     border: solid #2a607c thick;
     background-color: skyblue;
-    border-radius: 5%;
+    border-radius: 10%;
 }
 
 /* resizes article img to fit phone screens */
