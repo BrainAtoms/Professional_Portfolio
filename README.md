@@ -1,11 +1,11 @@
-# Professional_Portfolio
+# Coding_Quiz
 
 My Professional Portfolio website was created as a resource to display my personal web projects. It is a simple user friendly website that allows people to learn information about me and my work in web development. This web page uses HTML and CSS to appear neat and presentable to users.
 
 # ![Screen Shot 2023-02-03 at 5 57 03 PM](https://user-images.githubusercontent.com/61917285/216726647-7b08b1cc-3507-485f-bd1b-0f230c92a581.png)
 
 #
-[Professional Portfolio](https://brainatoms.github.io/Professional_Portfolio/)
+[Coding Quiz](https://brainatoms.github.io/Coding_Quiz/)
 
 ## Installation
 
